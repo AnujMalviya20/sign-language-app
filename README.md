@@ -19,7 +19,7 @@ This Streamlit application processes a real-time webcam feed to recognize Americ
 3. Start the application:
    ```bash
    streamlit run app.py
-   ```
+   ```0000
 
 ## Next Steps for Free Deployment
 1. **Get a Free API Key**: Grab a free API key from [Google AI Studio](https://aistudio.google.com/app/apikey) to power your chatbot.
