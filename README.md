@@ -1,4 +1,4 @@
-# Sign Language Recognition App with AI Assistant 🤟
+# Sign Language Recognition App with AI Assistant 
 
 This Streamlit application processes a real-time webcam feed to recognize American Sign Language (ASL) gestures and accumulates them into text. It integrates a conversational AI assistant (Google Gemini) to help triage and communicate effectively based on the recognized text.
 
